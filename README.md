@@ -79,10 +79,6 @@ Join our Discord - [fullstackhero @ Discord](https://discord.gg/gdgHRt4mMw)
 - [ ] Test Projects
 - [ ] & Much More
 
-## Community
-
-- Discord [@fullstackhero](https://discord.gg/gdgHRt4mMw)
-
 ## License
 
 This project is licensed with the [MIT license](LICENSE).
